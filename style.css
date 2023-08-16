@@ -1,1 +1,22 @@
+body {
+    background: #CCCCCC
+}
 
+p {
+   text-aling: center;
+}
+em strong {
+    color: #FF0000;
+}
+
+h1 {
+   text-aling: center;
+}
+
+p {
+  font-size: 30px;
+}
+
+#banner {
+  wiht: 100%;
+}
