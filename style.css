@@ -36,3 +36,14 @@ p {
     background: #FFFFFF;
     padding: 20px;
 }
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
