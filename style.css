@@ -2,13 +2,14 @@ body {
     background: #CCCCCC
 }
 
+
 .principal{
     background: #b8b6b6;
-    padding; 30px;
+    padding: 10px;
 }
 
 p {
-   text-aling: center;
+    text-align: center;
 }
 
 em strong {
@@ -16,25 +17,33 @@ em strong {
 }
 
 h1 {
-   text-aling: center;
+    text-align: center;
 }
-
 
 p {
-  font-size: 30px;
+    font-size: 20px;
 }
 
-#images {
-  wiht: 100%;
+#missao {
+    font-size: 30px
+}
+
+#banner {
+    width: 100%;
 }
 
 .itens {
-    font-size italic;
+    font-style: italic;
+    font-size: 30px;
 }
 
-.qualidade {
-    background: #FFFFFF;
+.beneficios {
+    background: #ccbaba;
     padding: 20px;
+}
+
+h2 {
+    text-align: center;
 }
 
 ul {
