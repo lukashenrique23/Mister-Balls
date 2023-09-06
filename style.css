@@ -1,8 +1,6 @@
-aqlbody {
+body {
     background: #CCCCCC
 }
-
-
 .principal{
     background: #b8b6b6;
     padding:50px;
@@ -55,4 +53,10 @@ ul {
 
 .imagembeneficios {
     width: 50%;
+}
+.titulo-principal {
+    padding-left: 30px;
+}
+.titulo-centralizado {
+    text-aling: center
 }
