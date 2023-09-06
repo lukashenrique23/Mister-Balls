@@ -1,11 +1,11 @@
-body {
+aqlbody {
     background: #CCCCCC
 }
 
 
 .principal{
     background: #b8b6b6;
-    padding:40px;
+    padding:50px;
 }
 
 p {
@@ -21,7 +21,7 @@ h1 {
 }
 
 p {
-    font-size: 40px;
+    font-size: 45px;
 }
 
 #missao {
