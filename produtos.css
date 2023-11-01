@@ -6,7 +6,6 @@ header {
   position: relative;
   width: 940px;
   margin: 0 auto;
-
 }
 
 nav li {
@@ -16,6 +15,6 @@ nav li {
 nav a {
   text-transform: uppercase;
   color: #000000;
-  font-size:20px;
+  font-size:22px;
   text-decorarion: none;
 }
