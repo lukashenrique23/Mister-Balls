@@ -17,7 +17,27 @@ header {
     background-color: #28a745;
     color: white;
     padding: 20px 0;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header Fazenda.png {
+    max-width: 150px; /* Define o tamanho máximo da logo */
+    height: auto;
+}
+
+header .header-text {
+    text-align: right;
 }
 
 header h1 {
