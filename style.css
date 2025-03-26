@@ -31,7 +31,7 @@ header .container {
     align-items: center;
 }
 
-header Fazenda.png {
+header .logo img {
     max-width: 150px; /* Define o tamanho máximo da logo */
     height: auto;
 }
