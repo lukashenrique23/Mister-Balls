@@ -32,7 +32,7 @@ header .container {
 }
 
 header .FAZENDA.png {
-    max-width: 50px; /* Define o tamanho máximo da logo */
+    max-width: 40px; /* Define o tamanho máximo da logo */
     height: auto;
 }
 
