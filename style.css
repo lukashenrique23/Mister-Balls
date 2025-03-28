@@ -9,12 +9,12 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: 222;
-    background-color: #14ea2f;
+    background-color: #15af0f;
 }
 
 /* Estilo do cabeçalho */
 header {
-    background-color: #fbf1d6;
+    background-color: #14ea2f;
     color: white;
     padding: 20px 0;
     display: flex;
