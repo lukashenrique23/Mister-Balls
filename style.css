@@ -91,3 +91,8 @@ footer {
 footer p {
     font-size: 0.9rem;
 }
+
+header .FAZENDA.png {
+    max-width: 20px; /* Define o tamanho máximo da logo */
+    height: auto;
+}
